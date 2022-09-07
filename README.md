@@ -2,7 +2,7 @@
 
 ## Description
 
-a ttorial on an email matching regex
+a tutorial on an email matching regex
 
 ## installation
 
