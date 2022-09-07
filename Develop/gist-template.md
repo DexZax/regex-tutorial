@@ -22,26 +22,32 @@ this specific regex searches for valid emails.
 
 ### Quantifiers
 [a-z0-9_\.-]+
+
 this shows that we are looking for the in bracket expressions followed by one or more characters.
 
 ### Character Classes
 ([\da-z\.-]
+
 here we see that "\d" matches a single character that is a digit.
 
 ### Flags
 /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
+
 a regex usually comes wrapped in "/" which determines the begining and end of the regex.
 
 ### Grouping and Capturing
 ([a-z0-9_\.-]+)
+
 this indicates a capture group. we are looking for these specific expressions all together.
 
 ### Bracket Expressions
 [a-z0-9_\.-]
+
 in this case we are using bracket expressions to find any letter a-z and any number 0-9 as well as "_", "\", ".", "-"
 
 ### Greedy and Lazy Match
 {2,6}
+
 this matches the previous token between 2 and 6 times, as many times as possible, giving back as needed.
 
 ## Author
