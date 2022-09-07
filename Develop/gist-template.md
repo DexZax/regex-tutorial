@@ -46,4 +46,8 @@ this matches the previous token between 2 and 6 times, as many times as possible
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+contact me at:
+
+cdzacour@hotmail.com
+
+https://github.com/DexZax
